@@ -7,3 +7,5 @@ let count = {
   }
 }
 console.log(count.add);
+console.log(this.num1);
+map(const x => x * 100);
