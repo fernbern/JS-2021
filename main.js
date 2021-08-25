@@ -10,3 +10,6 @@ console.log(count.add);
 console.log(this.num1);
 map(const x => x * 100);
 includes(acc);
+const speak = function(){
+  return `Hello my name is ${name}`;
+}
