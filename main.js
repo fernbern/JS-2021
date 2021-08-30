@@ -13,3 +13,4 @@ includes(acc);
 const speak = function(){
   return `Hello my name is ${name}`;
 }
+const app {name: 'Fernando'};
